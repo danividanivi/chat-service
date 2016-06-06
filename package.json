@@ -1,0 +1,13 @@
+{
+  "name": "chatSEXSAR",
+  "version": "0.0.1",
+  "description": "Servicio web Chat Sexsar",
+  "main": "app.js",
+  "author": "SEXSAR TEAM",
+  "dependencies": {
+    "express": "^4.13.4",
+    "socket.io": "^1.4.6"
+  }
+}
+
+
